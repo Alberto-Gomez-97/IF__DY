@@ -1,0 +1,15 @@
+C:\Users\agomezpa\source\repos\IF_UDY\IF_UDY\bin\Debug\net6.0\IF_UDY.exe
+C:\Users\agomezpa\source\repos\IF_UDY\IF_UDY\bin\Debug\net6.0\IF_UDY.deps.json
+C:\Users\agomezpa\source\repos\IF_UDY\IF_UDY\bin\Debug\net6.0\IF_UDY.runtimeconfig.json
+C:\Users\agomezpa\source\repos\IF_UDY\IF_UDY\bin\Debug\net6.0\IF_UDY.dll
+C:\Users\agomezpa\source\repos\IF_UDY\IF_UDY\bin\Debug\net6.0\IF_UDY.pdb
+C:\Users\agomezpa\source\repos\IF_UDY\IF_UDY\obj\Debug\net6.0\IF_UDY.csproj.AssemblyReference.cache
+C:\Users\agomezpa\source\repos\IF_UDY\IF_UDY\obj\Debug\net6.0\IF_UDY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agomezpa\source\repos\IF_UDY\IF_UDY\obj\Debug\net6.0\IF_UDY.AssemblyInfoInputs.cache
+C:\Users\agomezpa\source\repos\IF_UDY\IF_UDY\obj\Debug\net6.0\IF_UDY.AssemblyInfo.cs
+C:\Users\agomezpa\source\repos\IF_UDY\IF_UDY\obj\Debug\net6.0\IF_UDY.csproj.CoreCompileInputs.cache
+C:\Users\agomezpa\source\repos\IF_UDY\IF_UDY\obj\Debug\net6.0\IF_UDY.dll
+C:\Users\agomezpa\source\repos\IF_UDY\IF_UDY\obj\Debug\net6.0\refint\IF_UDY.dll
+C:\Users\agomezpa\source\repos\IF_UDY\IF_UDY\obj\Debug\net6.0\IF_UDY.pdb
+C:\Users\agomezpa\source\repos\IF_UDY\IF_UDY\obj\Debug\net6.0\IF_UDY.genruntimeconfig.cache
+C:\Users\agomezpa\source\repos\IF_UDY\IF_UDY\obj\Debug\net6.0\ref\IF_UDY.dll
